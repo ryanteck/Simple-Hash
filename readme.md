@@ -3,7 +3,7 @@ A python scrypt I am using for basic benchmarking (To mainly see difference in s
 
 ##Your results are needed! 
 To get your results.
-Git clone this project or just download the hash.py file
+Git clone this project or just download the hash.py file. You also require Python installed. The tutorial assumes that you can just type Python into your Terminal or CMD.
 
 run "python hash.py 1 2 3 4 5"
 Note the time taken (Printed at the end of the run)
