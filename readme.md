@@ -18,7 +18,7 @@ Time Taken 1, Time Taken 2 & Time Taken 3 (The results from your tests. 3 Decima
 ###Thanks if you do it! The results will be used for a possible future Raspberry Pi project.
 
 
-Results:
+##Results:
 
 | CPU / PC | Numbers Tested | Arch | Operating Sys | Time Taken 1 | Time Taken 2 | Time Taken 3 |
 | --- | --- | --- | --- | --- | --- | --- |
