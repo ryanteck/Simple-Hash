@@ -15,7 +15,9 @@ Arch ( Python Architecture, Normally what your computer runs [Depending on what 
 Operating System (You should know this, also include your OS's Arch in brackets)
 Time Taken 1, Time Taken 2 & Time Taken 3 (The results from your tests. 3 Decimal Points are prefered).
 
-####Thanks if you do it! The results will be used for a possible future Raspberry Pi project.
+Already see your CPU / PC on here? Don't worry! Duplicates are great!
+
+#####Thanks if you do it! The results will be used for a possible future Raspberry Pi project.
 
 
 ##Results:
